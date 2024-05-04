@@ -1,0 +1,7 @@
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\bin\Debug\12.4(rec).exe.config
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\bin\Debug\12.4(rec).exe
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\bin\Debug\12.4(rec).pdb
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\obj\Debug\12.4(rec).csproj.AssemblyReference.cache
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\obj\Debug\12.4(rec).csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\obj\Debug\12.4(rec).exe
+D:\Visual Studio projects\12.4(rec)\12.4(rec)\obj\Debug\12.4(rec).pdb
